@@ -13,15 +13,7 @@
     display: none;
 }
 
-.review_container {
-    display: flex;
-    justify-content: center;
-    background: url(../images/sliderimg.jpeg);
-    height: 300px;
-    width: 100%;
-    object-fit: cover;
 
-}
 
 .review-section {
     background-image: url('/images/sliderimg.jpeg'); 
