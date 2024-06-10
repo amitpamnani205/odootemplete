@@ -16,7 +16,7 @@
 
 
 .review-section {
-    background-image: url('/images/sliderimg.jpeg'); 
+    background-image: url('images/sliderimg.jpeg'); 
     background-size: cover;
     background-position: center;
     padding: 50px 0;
